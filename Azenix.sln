@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azenix", "Azenix\Azenix.csproj", "{2A39FCE8-52F9-4BAF-9168-8EA64CAD0BCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azenix.Tests", "Azenix.Tests\Azenix.Tests.csproj", "{0D4E744D-E989-4A2F-9A02-E187EC8677F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A39FCE8-52F9-4BAF-9168-8EA64CAD0BCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A39FCE8-52F9-4BAF-9168-8EA64CAD0BCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A39FCE8-52F9-4BAF-9168-8EA64CAD0BCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A39FCE8-52F9-4BAF-9168-8EA64CAD0BCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D4E744D-E989-4A2F-9A02-E187EC8677F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D4E744D-E989-4A2F-9A02-E187EC8677F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D4E744D-E989-4A2F-9A02-E187EC8677F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D4E744D-E989-4A2F-9A02-E187EC8677F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDE4A644-9748-417D-B5D4-DCAAB42B4BBD}
+	EndGlobalSection
+EndGlobal
